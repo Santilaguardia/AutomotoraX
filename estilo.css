@@ -189,6 +189,41 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+.container_autos{
+    height: 70vh;
+    color: #fff;
+    min-height: 500px;
+
+}
+.espacio_buscador{
+    width: 50%;
+    height: 7vh;
+    text-align: center;
+    font-size: 4vh;
+    padding-left: 2vw;
+    font-family: 'Ubuntu', sans-serif;
+    list-style: none;
+
+   
+}
+.Buscador{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+    border-radius: 40%;
+    
+    
+    
+    
+    
+    
+
+}
+.espacio_buscador datalist{
+    width: 100%;
+    
+}
+
 
 
 /* responsive media query start */
